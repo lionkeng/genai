@@ -20,6 +20,10 @@
 
 [The Prompt Report](https://arxiv.org/abs/2406.06608)
 
+## Guard rails
+
+[Survey paper](https://arxiv.org/abs/2406.02622)
+
 ## Agents
 
 [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
